@@ -11,9 +11,9 @@ from functools import partial
 # connect to database
 try:
   mydb = mysql.connector.connect(
-    host="150.140.186.221",
-    user='db20_up1046879',
-    password='up1046879',
+    host="  #####ip### ",
+    user=' #####username#### ',
+    password=' ####password#### ',
     database="project_db20_up1046879"
   );
 except mysql.connector.Error as err:
