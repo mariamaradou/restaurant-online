@@ -15,7 +15,7 @@ db = mysql.connector.connect(host="  ###ip####    ",
                              user='   #####username####  ',
                              password=' #####password##### ',
 
-                             db="   ###database_name#####   ")
+                             db="project_db20_up1046879")
 
 # buttons back
 
